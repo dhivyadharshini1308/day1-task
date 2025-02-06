@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <u1>
+        <li>python </li>
+        <li>css</li>
+        <li>java</li>
+    </u1>
+    <ol>
+        <li>python</li>
+        <li>css</li>
+        <li>java</li>
+    </ol>
+<dd>html</dd>
+<dt>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores ut odio sapiente voluptatum enim dolores optio voluptatibus adipisci repellendus cumque ex nam quasi autem, corrupti nihil ducimus numquam et vel!
+</dt>
+<table border="2"></table>
+<caption>timetable</caption>
+<thead>
+    <tr>
+        <th>monday</th>
+        <th>break</th>
+        <th>tuesday</th>
+        <th>break</th>
+        <th>wednesday</th>
+        <th>break</th>
+        <th>thursday</th>
+        <th>break</th>
+        <th>friday</th>
+        <th>break</th>
+        <th>saturday</th>
+    </tr>
+</thead>
+<tbody>
+        <tr>
+            <td>english</td>
+            <td>breaktime</td>
+            <td>tamil</td>
+            <td>maths</td>
+            <td>foodtime</td>
+            <td>science</td>
+            <td>breaktime</td>
+            <td>social</td>
+        </tr>
+        <tr>
+            <td></td>
+        </tr>
+    </tbody>
+</table1>
+</body>
+</html>
